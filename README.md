@@ -13,13 +13,13 @@ Front and back from left to right: key q w e
 Left and right from back to front: key a s d
 
 Clockwise and counterclockwise from bottom to top: key z x c
+
 <li>Changing position of light</li>
 X increase and decrease: key u and i
 
 Y increase and decrease: key j and k
 
 Z increase and decrease: key n and m
-<li></li>
 </ul>
 
 
